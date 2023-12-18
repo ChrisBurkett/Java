@@ -29,8 +29,8 @@ I made a better flow chart in Microsoft Visio:  <br/>
 <img src="https://i.imgur.com/rPxs3JY.png" height="80%" width="80%" alt="Better flowchart"/>
 <br />
 <br />
-Pseudocode to help understand the structure of the "if, else" loop to get an item: <br/>
-<img src="https://i.imgur.com/8lwzdLs.png" height="80%" width="80%" alt="Pseudocode Get Items"/>
+Pseudocode to help understand the structure of the code: <br/>
+<img src="https://i.imgur.com/W2rDvNS.png" height="80%" width="80%" alt="Pseudocode"/>
 <br />
 <br />
 The instructions and defencions of the game in Python:  <br/>
