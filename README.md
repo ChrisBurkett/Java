@@ -37,8 +37,8 @@ Our Customer has requested an update to the program:  <br/>
 <img src="https://i.imgur.com/plMDNCv.png" height="80%" width="80%" alt="The Code Part 1"/>
 <br />
 <br />
-The Loops "if, else" in Python:  <br/>
-<img src="https://i.imgur.com/uMVUuGN.png" height="80%" width="80%" alt="The Code Part 2"/>
+Superclass built in Python, Monkey and Dog will be a subclass and inherit the superclass's methods and fields:  Full code at the bottom of the page.  <br/>
+<img src="https://i.imgur.com/bSpSF6h.png" height="80%" width="80%" alt="Superclass"/>
 <br />
 <br />
 My text based Python game running in Windows:  <br/>
