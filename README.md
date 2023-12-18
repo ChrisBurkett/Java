@@ -60,10 +60,10 @@ The program running!:  <br/>
 </p>
 <b>
  
-[Full Game Code: Python](https://github.com/ChrisBurkett/Python/blob/main/game_code)
+[Full Rescue Program: Java](https://github.com/ChrisBurkett/Java/blob/main/Rescue%20Program.zip)
 </b>
 
-[Game File: Python](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
+[RescueAnimal.java](https://github.com/ChrisBurkett/Java/blob/main/RescueAnimal.java)
 
 
 <!--
