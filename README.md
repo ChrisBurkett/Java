@@ -45,8 +45,12 @@ Subclass dog is finished:  <br/>
 <img src="https://i.imgur.com/7kLLb6R.png" height="80%" width="80%" alt="Dog"/>
 <br />
 <br />
-Subclass dog is finished:  <br/>
-<img src="https://i.imgur.com/7kLLb6R.png" height="80%" width="80%" alt="Dog"/>
+Subclass monkey is finished:  <br/>
+<img src="https://i.imgur.com/1RhnjeW.png" height="80%" width="80%" alt="Dog"/>
+<br />
+<br />
+Subclass monkey is finished:  <br/>
+<img src="https://i.imgur.com/1RhnjeW.png" height="80%" width="80%" alt="Dog"/>
 <br />
 <br />
 </p>
