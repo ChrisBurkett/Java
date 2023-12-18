@@ -33,8 +33,8 @@ Pseudocode to help understand the structure of the code: <br/>
 <img src="https://i.imgur.com/W2rDvNS.png" height="80%" width="80%" alt="Pseudocode"/>
 <br />
 <br />
-The instructions and defencions of the game in Python:  <br/>
-<img src="https://i.imgur.com/5MIU5XF.png" height="80%" width="80%" alt="The Code Part 1"/>
+Our Customer has requested an update to the program:  <br/>
+<img src="https://i.imgur.com/plMDNCv.png" height="80%" width="80%" alt="The Code Part 1"/>
 <br />
 <br />
 The Loops "if, else" in Python:  <br/>
