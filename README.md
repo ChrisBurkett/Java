@@ -61,10 +61,10 @@ The program running!:  <br/>
 <b>
 </b>
 
-[Driver.java](https://github.com/ChrisBurkett/Java/blob/main/Driver.java)
-[RescueAnimal.java](https://github.com/ChrisBurkett/Java/blob/main/RescueAnimal.java)
-[Dog.java](https://github.com/ChrisBurkett/Java/blob/main/Dog.java)
-[Monkey.java](https://github.com/ChrisBurkett/Java/blob/main/Monkey.java)
+[Driver.java](https://github.com/ChrisBurkett/Java/blob/main/Driver.java) </b>
+[RescueAnimal.java](https://github.com/ChrisBurkett/Java/blob/main/RescueAnimal.java)</b>
+[Dog.java](https://github.com/ChrisBurkett/Java/blob/main/Dog.java)</b>
+[Monkey.java](https://github.com/ChrisBurkett/Java/blob/main/Monkey.java)</b>
 
 [Full Rescue Program: Java.zip](https://github.com/ChrisBurkett/Java/blob/main/Rescue%20Program.zip)
 
