@@ -46,14 +46,18 @@ Subclass dog is finished:  <br/>
 <br />
 <br />
 Subclass monkey is finished:  <br/>
-<img src="https://i.imgur.com/1RhnjeW.png" height="80%" width="80%" alt="Dog"/>
+<img src="https://i.imgur.com/1RhnjeW.png" height="80%" width="80%" alt="Monkey"/>
 <br />
 <br />
 Subclass monkey is finished:  <br/>
-<img src="https://i.imgur.com/1RhnjeW.png" height="80%" width="80%" alt="Dog"/>
+<img src="https://i.imgur.com/1RhnjeW.png" height="80%" width="80%" alt="Subclass"/>
 <br />
 <br />
 The program is finished, full code at the bottom of the page:  <br/>
+<img src="https://i.imgur.com/iA7P4Sm.png" height="80%" width="80%" alt="Dog"/>
+<br />
+<br />
+The program running!:  <br/>
 <img src="https://i.imgur.com/iA7P4Sm.png" height="80%" width="80%" alt="Dog"/>
 <br />
 <br />
