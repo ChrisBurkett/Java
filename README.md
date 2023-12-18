@@ -37,12 +37,16 @@ Our Customer has requested an update to the program:  <br/>
 <img src="https://i.imgur.com/plMDNCv.png" height="80%" width="80%" alt="The Code Part 1"/>
 <br />
 <br />
-Superclass built in Python, Monkey and Dog will be a subclass and inherit the superclass's methods and fields:  Full code at the bottom of the page.  <br/>
+Superclass built in Python, the subclass will inherit the superclass's methods and fields:  Full code at the bottom of the page.  <br/>
 <img src="https://i.imgur.com/bSpSF6h.png" height="80%" width="80%" alt="Superclass"/>
 <br />
 <br />
-My text based Python game running in Windows:  <br/>
-<img src="https://i.imgur.com/jCy7l20.png" height="80%" width="80%" alt="The Game"/>
+Subclass dog is finished:  <br/>
+<img src="https://i.imgur.com/7kLLb6R.png" height="80%" width="80%" alt="Dog"/>
+<br />
+<br />
+Subclass dog is finished:  <br/>
+<img src="https://i.imgur.com/7kLLb6R.png" height="80%" width="80%" alt="Dog"/>
 <br />
 <br />
 </p>
