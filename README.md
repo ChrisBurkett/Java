@@ -61,12 +61,12 @@ Subclass monkey is finished:  <br/>
 <img src="https://i.imgur.com/1RhnjeW.png" height="80%" width="80%" alt="Monkey"/>
 <br />
 <br />
-The program is finished: <br/>
+The main program is finished: <br/>
 <img src="https://i.imgur.com/iA7P4Sm.png" height="80%" width="80%" alt="Finished"/>
 <br />
 <br />
-The program running!:  <br/>
-<img src="https://i.imgur.com/iA7P4Sm.png" height="80%" width="80%" alt="Running"/>
+The rescue program is running!:  <br/>
+<img src="https://i.imgur.com/jFoSuMJ.png" height="80%" width="80%" alt="Running"/>
 <br />
 <br />
 </p>
