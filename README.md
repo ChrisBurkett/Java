@@ -16,6 +16,7 @@ Build a Java project to Check in pets at the store, use Classes and object-orien
 
 - <b>eclipse</b>
 - <b>Notepad ++</b>
+- <b>Microsoft Visio</b>
 
 <h2>Java pet check in program</h2>
 
@@ -24,8 +25,8 @@ Created a rough flowchart to map concept: <br/>
 <img src="https://i.imgur.com/b80pA9q.png" height="80%" width="80%" alt="Rough Flowchart"/>
 <br />
 <br />
-I wrote Pseudocode to help understand the structure of the "if, else" loops to move between rooms:  <br/>
-<img src="https://i.imgur.com/VR4VWgo.png" height="80%" width="80%" alt="Pseudocode Rooms"/>
+I made a better flow chart in Microsoft Visio:  <br/>
+<img src="https://i.imgur.com/rPxs3JY.png" height="80%" width="80%" alt="Better flowchart"/>
 <br />
 <br />
 Pseudocode to help understand the structure of the "if, else" loop to get an item: <br/>
