@@ -49,7 +49,7 @@ Our Customer has requested an update to the program:  <br/>
 <img src="https://i.imgur.com/plMDNCv.png" height="80%" width="80%" alt="The Code Part 1"/>
 <br />
 <br />
-Superclass built in Python, the subclass will inherit the superclass's methods and fields:  Full code at the bottom of the page.  <br/>
+Superclass built in Python, the subclass will inherit the superclass's methods and fields: <br/>
 <img src="https://i.imgur.com/bSpSF6h.png" height="80%" width="80%" alt="Superclass"/>
 <br />
 <br />
@@ -61,7 +61,7 @@ Subclass monkey is finished:  <br/>
 <img src="https://i.imgur.com/1RhnjeW.png" height="80%" width="80%" alt="Monkey"/>
 <br />
 <br />
-The program is finished, full code at the bottom of the page:  <br/>
+The program is finished: <br/>
 <img src="https://i.imgur.com/iA7P4Sm.png" height="80%" width="80%" alt="Finished"/>
 <br />
 <br />
@@ -73,22 +73,3 @@ The program running!:  <br/>
 <b>
 </b>
 
-[Driver.java](https://github.com/ChrisBurkett/Java/blob/main/Driver.java) </b>
-
-[RescueAnimal.java](https://github.com/ChrisBurkett/Java/blob/main/RescueAnimal.java)</b>
-
-[Dog.java](https://github.com/ChrisBurkett/Java/blob/main/Dog.java)</b>
-
-[Monkey.java](https://github.com/ChrisBurkett/Java/blob/main/Monkey.java)</b>
-
-[Full Rescue Program: Java.zip](https://github.com/ChrisBurkett/Java/blob/main/Rescue%20Program.zip)
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
